@@ -6,3 +6,5 @@ redirected DNS queries (for instance from RPZ). This is being provided as-is
 for research and hunt teams.
 
 This data was generated from passive DNS by Open-Source Context: https://oscontext.com
+
+with additional data from Farsight Security's DNSDB: https://www.farsightsecurity.com
